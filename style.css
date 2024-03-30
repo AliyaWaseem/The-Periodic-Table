@@ -1,0 +1,59 @@
+body {
+    background-image: url(images/chemlockbg5.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+}
+
+h1 {
+    background-color: #6495ED;
+    display: inline-block;
+    font-size: 50px;
+    border-radius: 10px;
+    padding: 20px;
+    margin: 10px;
+    width: 800px;
+}
+
+th {
+    color: bisque;
+}
+
+td {
+    height: 60px;
+    width: 60px;
+    border: solid black;
+    text-align: center;
+    border-radius: 10px;
+}
+
+.noborder {
+    border: none;
+}
+.lightgreen {
+    background-color:#00FA9A;
+}
+.blue {
+    background-color: #6A5ACD;
+}
+.pink {
+    background-color: #F08080;
+}
+.orange {
+    background-color: #FFA500;
+}
+.yellow {
+    background-color: #FFFF00;
+}
+.seagreen {
+    background-color: #48D1CC;
+}
+.skyblue {
+    background-color: #6495ED;
+}
+.purple {
+    background-color: #9370DB;
+}
+.babypink {
+    background-color: #DA70D6;
+}
